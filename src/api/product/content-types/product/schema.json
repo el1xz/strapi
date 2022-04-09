@@ -32,11 +32,11 @@
     "type": {
       "type": "string"
     },
-    "price": {
-      "type": "string"
-    },
     "reviews": {
       "type": "string"
+    },
+    "price": {
+      "type": "integer"
     }
   }
 }
